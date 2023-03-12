@@ -1,10 +1,8 @@
-song = "music.mp3";
-song = "music2.mp3";
-leftWristX = 0;
-leftWristY = 0;
-rightWristX = 0;
-rightWristY = 0;
+song1 = "";
+song2 = "";
 
+song1_status = "";
+song2_status = "";
 
 function preload()
 {
